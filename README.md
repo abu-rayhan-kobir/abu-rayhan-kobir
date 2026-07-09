@@ -3,6 +3,7 @@
 ## 🚀 Full Stack MERN Developer
 
 <!-- Banner Image Here -->
+<img src="./assets/github-cover-photo.png" alt = "github cover photo" />
 <!-- Add your banner image link above -->
 
 ---
