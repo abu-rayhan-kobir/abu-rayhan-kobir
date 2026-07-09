@@ -1,103 +1,135 @@
-# 👋 Hi, I'm Abu Rayhan Kobir
+# 👋 Hello, I'm Abu Rayhan Kobir
 
-🚀 Full Stack MERN Developer  
-💻 Building modern, scalable, and user-friendly web applications
+## 🚀 Full Stack MERN Developer
 
----
-
-## 🚀 About Me
-
-- 👨‍💻 I'm a Full Stack MERN Developer passionate about web development.
-- 🌱 Currently improving my skills in **TypeScript, Backend Architecture, and System Design**.
-- 🧠 I enjoy solving programming problems and learning new technologies.
-- 🎯 My goal is to become a professional software engineer and build impactful products.
+<!-- Banner Image Here -->
+<!-- Add your banner image link above -->
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Frontend
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
+I am a passionate Full Stack MERN Developer who loves building modern, scalable, and user-friendly web applications.
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- REST API
-- JWT Authentication
+I enjoy solving problems, learning new technologies, and improving my skills in software development.
 
-### 🧰 Tools & Others
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
+Currently, I am focused on building real-world projects and strengthening my backend architecture skills.
 
 ---
 
-## 💻 Featured Projects
+## 🛠️ Current Activities
 
-### 🚀 Startup Forge
-A full-stack startup management platform where founders can manage startups and opportunities.
-
-**Tech Stack:**
-Next.js | Express.js | MongoDB | TypeScript | Authentication
-
-🔗 Repository: Add link here  
-🌐 Live Demo: Add link here
-
-
-### 📌 Job Tracker App
-A web application to manage and track job applications efficiently.
-
-**Tech Stack:**
-React.js | Node.js | Express.js | MongoDB
-
-🔗 Repository: Add link here  
-🌐 Live Demo: Add link here
-
-
-### 🛒 E-commerce Website
-A modern e-commerce platform with product management and user experience features.
-
-**Tech Stack:**
-Next.js | Tailwind CSS | Backend API
-
-🔗 Repository: Add link here  
-🌐 Live Demo: Add link here
+- 🌱 Exploring **Next.js** and advanced React patterns.
+- 🔥 Improving my backend development skills with **Node.js, Express.js, and MongoDB**.
+- 🚀 Building scalable full-stack applications using the **MERN stack**.
+- 📚 Learning **TypeScript, Data Structures & Algorithms, and System Design fundamentals**.
+- 💻 Working on real-world projects to improve my problem-solving skills.
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Skills & Technologies
+
+## 🎨 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" />
+</p>
+
+
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
+</p>
+
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel" />
+</p>
+
+
+## 🧰 Other Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Project Name 1
+Short description about your project.
+
+**Technology:** React.js | Node.js | Express.js | MongoDB
+
+
+### 🔹 Project Name 2
+Short description about your project.
+
+**Technology:** Next.js | Tailwind CSS | MongoDB
+
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_TWITTER_LINK">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abu-rayhan-kobir&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
 </p>
+
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Achievements
 
-<p>
-  <a href="YOUR_LINKEDIN_LINK">
-    LinkedIn
-  </a>
-  <br/>
-  <a href="YOUR_PORTFOLIO_LINK">
-    Portfolio
-  </a>
-  <br/>
-  <a href="YOUR_YOUTUBE_LINK">
-    YouTube
-  </a>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1" />
+
 </p>
+
+
+---
+
+## ✨ Quote
+
+> "First, solve the problem. Then, write the code."
 
 ---
 
