@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack MERN Developer who loves building modern, scalable, and user-friendly web applications.
+<p>I am a passionate Full Stack MERN Developer who loves building modern, scalable, and user-friendly web applications.
 I enjoy solving problems, learning new technologies, and improving my skills in software development.
-Currently, I am focused on building real-world projects and strengthening my backend architecture skills.
+Currently, I am focused on building real-world projects and strengthening my backend architecture skills.</p>
 
 ## 🛠️ Current Activities
  🌱 Exploring **Next.js** and advanced React patterns.
